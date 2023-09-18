@@ -5,4 +5,17 @@
 ##### 23a
 ###### 23a
 # ![NKUST](nkust.png "高科大")
-# [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+- [x] To do list
+- [ ] 2nd thing
+- [ ] 3rd thing
+- [ ] 4th thing
+
+```python
+s = "Python Highlights Syntax"
+print(s)
+```
+
+```js
+var s = "javascript syntax text";
+alert(s)
+```
